@@ -1,0 +1,2 @@
+A second file to delete.
+this will not be added to the repository
